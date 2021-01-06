@@ -1,0 +1,111 @@
+
+h1{
+    
+    font-size:50px;
+    color:darkcyan;
+    margin-top: 0;
+}
+h3{
+    font-weight:800;
+    color:black;
+}
+.high_light{
+    color: orange;
+}
+.topper-division{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+    padding-bottom: 500px;
+}
+
+.div-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 20px;
+   
+   
+}
+.div-width img{
+    width:80%;
+    margin-left: 100px;
+}
+.snd-section{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 500px;
+}
+a{
+    font-size:15px;
+    color: white;
+    padding: 10px 20px;
+    background-color: orange;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.9s;
+}
+a:hover{
+    background-color: paleturquoise;
+    color: black;
+   
+}
+.div-card{
+    box-shadow: 10px 20px 40px;
+   border-radius: 5px;
+   height: 80%;
+}
+.experience-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 500px;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, black, tomato);
+    border-image-slice:1;
+    height: 300px;
+    background-color: white;
+}
+#baby-wib{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, tomato);
+    border-image-slice:1;
+    height: 300px;
+}
+#copyright{
+    text-align:center;
+    font-size: 35px;
+}
+.ps{
+    text-align: center;
+    color: gray;
+    padding: 10px 20px;
+    margin: 0px 300px 50px 300px;
+    background-color: lightgray;
+    font-style: italic;
+    border-radius: 5px;
+    box-shadow: 10px 20px 30px olive;
+    
+}
+.ps2{
+    text-align: center;
+    color: gray;
+    padding: 10px 20px;
+    margin: 0px 200px 50px 200px;
+    background-color: lightgray;
+    font-style: italic; 
+    border-radius: 5px;
+    box-shadow: 10px 20px 30px olive;
+}
+.hltag{
+    padding-left: 200px;
+}
+#bd{
+    padding: 15px 25px 0px 25px;
+    font-size: 35px;
+    font-weight: bold;
+}
+    
